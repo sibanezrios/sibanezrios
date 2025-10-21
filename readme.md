@@ -50,7 +50,7 @@ Interactive web interface to visualize **real-time data and performance metrics*
 
 ---
 
-### 2️⃣ [elyon_page](https://github.com/sibanezrios/elyon_page)
+### 2️⃣ [elyonPage](https://github.com/sibanezrios/elyon_page)
 **Type:** Corporate Landing Page  
 **Description:**  
 Official website of **Elyon Business Consulting**, built with **Next.js + Tailwind CSS** to showcase automation services, use cases, and AI demos.  
@@ -62,7 +62,7 @@ Official website of **Elyon Business Consulting**, built with **Next.js + Tailwi
 
 ---
 
-### 3️⃣ [VideoJuegoMedioAmbiente](https://github.com/sibanezrios/VideoJuegoMedioAmbiente)
+### 3️⃣ [videoJuegoMedioAmbiente](https://github.com/sibanezrios/VideoJuegoMedioAmbiente)
 **Type:** Educational Game  
 **Description:**  
 A web-based game developed with **React + TypeScript**, designed to promote **environmental awareness** through interactive challenges and simple mechanics.  
@@ -74,7 +74,7 @@ A web-based game developed with **React + TypeScript**, designed to promote **en
 
 ---
 
-### 4️⃣ [expofisica](https://github.com/sibanezrios/expofisica)
+### 4️⃣ [expoFisica](https://github.com/sibanezrios/expofisica)
 **Type:** Hardware Simulation (Arduino + Web)  
 **Description:**  
 A **Maglev (magnetic levitation)** simulation and control system using **Arduino** and sensors, with a web-based visual interface built in HTML/JS to monitor physical variables.  
